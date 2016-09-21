@@ -1,3 +1,3 @@
 # Java-Tuoial
 Java Learning
-Recods of learning Java
+Records of learning Java
